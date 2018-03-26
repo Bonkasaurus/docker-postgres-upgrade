@@ -1,0 +1,208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"wordw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/sublime-save/nmapscript.sh",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/sublime-save/db_dump_with_getopts.sh",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/ansible-ovh-provision/revoke_users-playbook.yml",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/ansible-ovh-provision/pre-provision-playbook.yml",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/ansible-ovh-provision/iptables-flush-restore-playbook.yml",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/ansible-ovh-provision/generate_certificates_locally-playbook.yml",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/sublime-save/restart_selenium.sh",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/db_backup&restore.sh",
+		"/home/matia/Downloads/Kodi Scrapers Metrics-1517825350995.json",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/node-consul-query/file.json",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/sublime-save/rollingrestart.sh",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/pivod-frontend/node_modules/pg/lib/connection.js",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/node-consul-query/file_kv_dump_parse.js",
+		"/home/matia/Downloads/Service Overview-1515088900031.json",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/deploymentcommands.log",
+		"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/ansible-ovh-provision/provision-playbook.yml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "docker-postgres-upgrade.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/sublime-save/learn-ansible.sublime-project"
+			],
+			[
+				"ovh",
+				"/mnt/4d1d6289-1100-4c61-b74d-c3f45a533186/work/projects/sublime-save/ansible-ovh-provision.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
